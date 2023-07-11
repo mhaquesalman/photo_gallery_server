@@ -1,0 +1,145 @@
+{
+    "categories": [
+      {
+        "id": 0,
+        "name": "Food",
+        "image": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 1,
+        "name": "Street",
+        "image": "https://images.pexels.com/photos/417023/pexels-photo-417023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 2,
+        "name": "Animal",
+        "image": "https://images.pexels.com/photos/2889742/pexels-photo-2889742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 3,
+        "name": "Nature",
+        "image": "https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 4,
+        "name": "Film",
+        "image": "https://images.pexels.com/photos/274937/pexels-photo-274937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ],
+    "photos": [
+      {
+        "id": 0,
+        "categoryId": 0,
+        "name": "Food one",
+        "image": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author": "Jon doe",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      }, 
+      {
+        "id": 1,
+        "categoryId": 1,
+        "name": "Street one",
+        "image": "https://images.pexels.com/photos/417023/pexels-photo-417023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author": "Jon doe",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      {
+        "id": 2,
+        "categoryId": 1,
+        "name": "Street two",
+        "image": "https://images.pexels.com/photos/417023/pexels-photo-417023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author": "Jon carter",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      {
+        "id": 3,
+        "categoryId": 2,
+        "name": "Animal one",
+        "image": "https://images.pexels.com/photos/2889742/pexels-photo-2889742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author": "Jon doe",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      {
+        "id": 4,
+        "categoryId": 3,
+        "name": "Nature one",
+        "image": " https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author": "Jon doe",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      {
+        "id": 5,
+        "categoryId": 3,
+        "name": "Nature two",
+        "image": " https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author": "Jon carter",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      },
+      {
+        "id": 6,
+        "categoryId": 4,
+        "name": "Film one",
+        "image": "https://images.pexels.com/photos/274937/pexels-photo-274937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author": "Jon doe",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      }
+    ],
+    "comments": [
+      {
+        "id": 0,
+        "photoId": 0,
+        "comment": "Wonder full onek sundor",
+        "author": "Steve Rogers",
+        "rating": 5,
+        "date": "2020-10-16T17:57:28.556094Z"
+      },
+      {
+        "id": 1,
+        "photoId": 0,
+        "comment": "Amazing, valo hoise chobi ta",
+        "author": "Vincent Rogers",
+        "rating": 5,
+        "date": "2021-11-16T18:57:28.556094Z"
+      },
+      {
+        "id": 2,
+        "photoId": 1,
+        "comment": "Wonder full onek sundor",
+        "author": "Steve Rogers",
+        "rating": 4,
+        "date": "2020-10-16T17:57:28.556094Z"
+      },
+      {
+        "id": 3,
+        "photoId": 2,
+        "comment": "Wonder full onek sundor",
+        "author": "Steve Rogers",
+        "rating": 3,
+        "date": "2020-10-16T17:57:28.556094Z"
+      },
+      {
+        "id": 4,
+        "photoId": 3,
+        "comment": "Wonder full onek sundor",
+        "author": "Mary Jane",
+        "rating": 5,
+        "date": "2020-10-16T17:57:28.556094Z"
+      },
+      {
+        "id": 5,
+        "photoId": 3,
+        "comment": "Wonder full onek sundor",
+        "author": "Peggy Carter",
+        "rating": 3,
+        "date": "2020-10-16T17:57:28.556094Z"
+      },
+      {
+        "photoId": 0,
+        "comment": "Price beshi but khete valo",
+        "author": "Salman",
+        "rating": "4",
+        "date": "2023-07-05T05:46:29.417Z",
+        "id": 6
+      }
+    ]
+  }
