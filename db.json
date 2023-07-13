@@ -3,27 +3,27 @@
       {
         "id": 0,
         "name": "Food",
-        "image": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image": "imgs/food1.jpg"
       },
       {
         "id": 1,
         "name": "Street",
-        "image": "https://images.pexels.com/photos/417023/pexels-photo-417023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image": "imgs/street1.jpg"
       },
       {
         "id": 2,
         "name": "Animal",
-        "image": "https://images.pexels.com/photos/2889742/pexels-photo-2889742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image": "imgs/animal1.jpg"
       },
       {
         "id": 3,
         "name": "Nature",
-        "image": "https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image": "imgs/nature1.jpg"
       },
       {
         "id": 4,
         "name": "Film",
-        "image": "https://images.pexels.com/photos/274937/pexels-photo-274937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        "image": "imgs/film1.jpg"
       }
     ],
     "photos": [
@@ -31,7 +31,7 @@
         "id": 0,
         "categoryId": 0,
         "name": "Food one",
-        "image": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "imgs/food1.jpg",
         "author": "Jon doe",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
       }, 
@@ -39,7 +39,7 @@
         "id": 1,
         "categoryId": 1,
         "name": "Street one",
-        "image": "https://images.pexels.com/photos/417023/pexels-photo-417023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "imgs/street1.jpg",
         "author": "Jon doe",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
       },
@@ -47,7 +47,7 @@
         "id": 2,
         "categoryId": 1,
         "name": "Street two",
-        "image": "https://images.pexels.com/photos/417023/pexels-photo-417023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "imgs/street1.jpg",
         "author": "Jon carter",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
       },
@@ -55,7 +55,7 @@
         "id": 3,
         "categoryId": 2,
         "name": "Animal one",
-        "image": "https://images.pexels.com/photos/2889742/pexels-photo-2889742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "imgs/animal1.jpg",
         "author": "Jon doe",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
       },
@@ -63,7 +63,7 @@
         "id": 4,
         "categoryId": 3,
         "name": "Nature one",
-        "image": " https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "imgs/nature1.jpg",
         "author": "Jon doe",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
       },
@@ -71,7 +71,7 @@
         "id": 5,
         "categoryId": 3,
         "name": "Nature two",
-        "image": " https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "imgs/nature1.jpg",
         "author": "Jon carter",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
       },
@@ -79,7 +79,7 @@
         "id": 6,
         "categoryId": 4,
         "name": "Film one",
-        "image": "https://images.pexels.com/photos/274937/pexels-photo-274937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "image": "imgs/film1.jpg",
         "author": "Jon doe",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
       }
